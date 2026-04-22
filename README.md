@@ -25,4 +25,3 @@ I'm a **FullStack Engineer** @ Tech9 with a passion for crafting efficient, scal
 ### 🌍 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/mayureshgramopadhye/)
 - [Email](mailto:mayuresh3@gmail.com)
-- [Portfolio NextJs(Vercel)](https://portfolio-eight-nu-96.vercel.app/)
