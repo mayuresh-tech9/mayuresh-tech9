@@ -1,27 +1,69 @@
-## Hi there 👋
+## 👋 Hi, I'm Mayuresh Gramopadhye
 
-### I'm Mayuresh Gramopadhye!
+🚀 **Staff-level Backend Engineer | Go | Distributed Systems | AWS**
 
-I'm a **FullStack Engineer** @ Tech9 with a passion for crafting efficient, scalable, and secure applications. My expertise lies in **PHP**, **Laravel**, **ReactJS**, **NextJS**, **ElectronJS**, **SQL**, **AWS**, and **Python**. I'm currently expanding my knowledge and honing my skills in **NextJS**.
+I’m a backend-focused engineer with 12+ years of experience designing and scaling **high-concurrency distributed systems**. I specialize in building **Go-based microservices**, event-driven architectures, and performance-critical backend systems on AWS.
 
-### 🔧 Technologies & Tools:
-- **Languages**: PHP, JavaScript, Python, SQL
-- **Frameworks & Libraries**: Laravel, ReactJS, NextJS, ElectronJS
-- **Cloud**: AWS (EC2, S3, RDS, Lambda)
-- **Databases**: MySQL, PostgreSQL, SQL Server
-- **DevOps**: Docker, GitHub Actions, CI/CD Pipelines
-- **Other**: RESTful APIs, GraphQL, WebSockets
+I’ve worked on real-time platforms, event-driven systems, and large-scale applications, focusing on **scalability, reliability, and clean architecture**.
 
-### 🌱 Currently Learning:
-- NextJS Advanced Features
-- Serverless Architectures on AWS
-- Microservices with Docker & Kubernetes
+---
 
+## ⚡ What I Do
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+* Design and scale **Go-based backend systems**
+* Build **high-concurrency services** using goroutines and worker patterns
+* Architect **event-driven systems** using SQS, queues, and async workflows
+* Lead **system design (HLD/LLD)** and service decomposition
+* Optimize performance and reduce system complexity
+* Introduce Go into existing systems for **high-performance workloads**
 
+---
 
-### 🌍 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/mayureshgramopadhye/)
-- [Email](mailto:mayuresh3@gmail.com)
+## 🧠 Key Expertise
+
+* **Languages**: Go (Primary), PHP, JavaScript, TypeScript, Python
+* **Architecture**: Microservices, Distributed Systems, Event-Driven Architecture, REST APIs
+* **Concurrency**: Goroutines, Channels, Worker Pools
+* **Cloud**: AWS (Lambda, SQS, S3, RDS, API Gateway, CloudFront)
+* **Databases**: MySQL, PostgreSQL, MongoDB, Firestore
+* **DevOps**: Docker, CI/CD, GitHub Actions
+* **Observability**: CloudWatch, Logging, Monitoring
+
+---
+
+## 🔥 Highlight Projects
+
+### 🎥 Real-Time Platform (SuitePeach)
+
+* Built **Go-based signaling services** for WebRTC
+* Scaled backend to support **high concurrent users**
+* Designed **stateless services for horizontal scaling**
+
+### 🔄 Event-Driven System (Referral Reactor)
+
+* Designed **event-driven architecture using SQS + Go workers**
+* Built scalable pipelines for referral tracking and payouts
+* Implemented **fault-tolerant async workflows**
+
+### 🧩 Hybrid Architecture (Laravel → Go)
+
+* Introduced Go services into existing systems
+* Offloaded performance-critical workloads to Go
+* Improved latency and scalability through service decomposition
+
+---
+
+## 🌱 Currently Focused On
+
+* Advanced **Go concurrency patterns**
+* Distributed system design at scale
+* Performance optimization and system reliability
+* Backend architecture for high-growth systems
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/mayureshgramopadhye/)
+* ✉️ [Email](mailto:mayuresh3@gmail.com)
+* 💻 [GitHub](https://github.com/GramopadhyeMayuresh)
